@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "@trpc/client": "^10.4.3",
     "@trpc/server": "^10.4.3",
